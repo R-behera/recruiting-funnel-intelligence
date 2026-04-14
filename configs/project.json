@@ -1,0 +1,48 @@
+{
+  "slug": "recruiting-funnel-intelligence",
+  "title": "Recruiting Funnel Intelligence",
+  "project_type": "analytics",
+  "domain": "HRTech",
+  "summary": "Track stage conversion, sourcing quality, and recruiter throughput across hiring funnels.",
+  "tags": [
+    "recruiting",
+    "funnel",
+    "ops"
+  ],
+  "accent": "#577590",
+  "dashboard_metrics": [
+    {
+      "label": "North Star",
+      "value": "91",
+      "delta": "+7.1%"
+    },
+    {
+      "label": "Variance",
+      "value": "14%",
+      "delta": "-1.8%"
+    },
+    {
+      "label": "Decision Cycle",
+      "value": "4d",
+      "delta": "-0.5d"
+    }
+  ],
+  "sample_features": {
+    "current_conversion": 0.16,
+    "baseline_conversion": 0.12,
+    "volume": 2050,
+    "segment": "new_users"
+  },
+  "sample_metrics": {
+    "acquisition": 44.4,
+    "activation": 43.0,
+    "retention": 54.8,
+    "revenue": 89.8
+  },
+  "knowledge_base": [
+    "Recruiting Funnel Intelligence is positioned as a HRTech starter that emphasizes fast iteration, clear documentation, and production-friendly interfaces.",
+    "The primary value proposition is: Track stage conversion, sourcing quality, and recruiter throughput across hiring funnels.",
+    "Recommended operating model: ship a small API, add observability, validate outputs with stakeholder review, and monitor the top business KPI every week.",
+    "Typical stakeholders include analytics, operations, product, and leadership teams working on recruiting, funnel, ops."
+  ]
+}
